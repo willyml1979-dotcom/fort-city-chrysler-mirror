@@ -1,47 +1,31 @@
 {
   "dealership": "Fort City Chrysler",
-  "generated_at": "2026-11-17T05:04:06",
+  "generated_at": "2026-11-17T09:29:25",
   "vehicle_count": 63,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2004 ECOSPORT EXPLORER SPORT TRAC XLT ADRENALIN",
-      "vin": "1FMZU77KX4UB85390",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/4278814c29da.html",
-      "year": 2004,
-      "make": "ECOSPORT",
-      "model": "EXPLORER SPORT TRAC XLT ADRENALIN",
-      "condition": "used"
-    },
-    {
-      "name": "2015 FORD FOCUSSE",
-      "vin": "1FADP3F20FL370692",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/4706da028a5a.html",
-      "year": 2015,
-      "make": "FORD",
-      "model": "Focus",
+      "name": "2016 HONDA CIVIC SEDANLX FWD",
+      "vin": "2HGFC2F58GH023386",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/fcd82d20f347.html",
+      "year": 2016,
+      "make": "HONDA",
+      "model": "Civic",
       "condition": "used",
-      "price": 47998.0,
+      "price": 14998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 JEEP CHEROKEE NORTH",
+      "name": "2018 JEEP CHEROKEENORTH 4X4",
       "vin": "1C4PJMCX1JD547798",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/4e216755dcfc.html",
       "year": 2018,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "used"
-    },
-    {
-      "name": "2018 JEEP WRANGLER JK UNLIMITED RUBICON 4X4",
-      "vin": "1C4BJWFG5JL872591",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/a4a822b10d22.html",
-      "year": 2018,
-      "make": "JEEP",
-      "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 16998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 JEEP COMPASS TRAILHAWK",
@@ -62,33 +46,37 @@
       "condition": "used"
     },
     {
-      "name": "2019 RAM 1500LIMITED",
-      "vin": "1C6SRFHT1KN745188",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/48728d1ccef5.html",
+      "name": "2019 RAM 1500 CLASSICWARLOCK 4x4 Crew Cab 5'7\" Box",
+      "vin": "1C6RR7LT4KS748518",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/d0dda1b6a379.html",
       "year": 2019,
       "make": "RAM",
-      "model": "1500",
+      "model": "1500 Classic",
       "condition": "used",
-      "price": 104784.0,
+      "price": 29998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 FORD TRANSIT PASSENGER WAGON 350 XL",
+      "name": "2021 FORD TRANSIT PASSENGER WAGON350 XL AWD",
       "vin": "1FBAX9C80MKA18440",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/cbc272ed289c.html",
       "year": 2021,
       "make": "FORD",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "price": 47998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2021 JEEP COMPASS SPORT",
-      "vin": "3C4NJCAB2MT598783",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/a1580e511c5b.html",
+      "name": "2021 NISSAN ROGUESV AWD",
+      "vin": "5N1AT3BB3MC728942",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/464ba3bc366e.html",
       "year": 2021,
-      "make": "JEEP",
-      "model": "Compass",
-      "condition": "used"
+      "make": "NISSAN",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 RAM 1500 CLASSIC EXPRESS",
@@ -100,24 +88,15 @@
       "condition": "used"
     },
     {
-      "name": "2021 RAM 3500BIG HORN",
+      "name": "2021 RAM 3500BIG HORN DIESEL 4x4 Crew Cab 8' Box",
       "vin": "3C63R3HL0MG647168",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/9a7709417416.html",
       "year": 2021,
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 81675.0,
+      "price": 84998.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2022 DODGE DURANGO SXT",
-      "vin": "1C4RDJAG8NC194893",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/b95a65f58d62.html",
-      "year": 2022,
-      "make": "DODGE",
-      "model": "Durango",
-      "condition": "used"
     },
     {
       "name": "2022 RAM 1500 REBEL",
@@ -129,14 +108,14 @@
       "condition": "used"
     },
     {
-      "name": "2023 GMC SIERRA 1500SLE",
+      "name": "2023 GMC SIERRA 1500SLE 4WD Crew Cab 6'6\" BOX",
       "vin": "3GTPUBEK3PG117845",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/b4c7e24bc0dc.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 24998.0,
+      "price": 39998.0,
       "price_currency": "CAD"
     },
     {
@@ -149,13 +128,15 @@
       "condition": "used"
     },
     {
-      "name": "2023 JEEP GRAND CHEROKEE OVERLAND",
+      "name": "2023 JEEP GRAND CHEROKEEOverland 4x4 5.7L HEMI Panoramic Sunroof",
       "vin": "1C4RJHDT0P8713399",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/b67c664253a4.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 51998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 JEEP GRAND CHEROKEE LLAREDO 4X4",
@@ -165,98 +146,151 @@
       "make": "JEEP",
       "model": "Grand Cherokee L",
       "condition": "used",
-      "price": 24998.0,
+      "price": 37998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 SPORT",
+      "name": "2023 RAM 1500SPORT 4x4 Crew Cab 6'4\" Box",
       "vin": "1C6SRFTT7PN676201",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/ad3dcf568545.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 42998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 CLASSIC SLT",
+      "name": "2023 RAM 1500 CLASSICSLT 4X4 CREW CAB 5.7L HEMI 5'7\" BOX",
       "vin": "3C6RR7LT7PG678768",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/fda60b1c95e1.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 36998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE HORNET GT",
+      "name": "2024 CHRYSLER PACIFICATOURING-L FWD",
+      "vin": "2C4RC1BG6RR183129",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/caf555c989a7.html",
+      "year": 2024,
+      "make": "CHRYSLER",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 36998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 DODGE HORNETGT AWD COLD WEATHER GROUP PKG",
       "vin": "ZACNDFANXR3A42570",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/ab6d131c7a5d.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "price": 36998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 LIMITED LONGHORN",
+      "name": "2024 JEEP GRAND CHEROKEE LLIMITED 4X4",
+      "vin": "1C4RJKBG7R8595910",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/eb29a31e8cff.html",
+      "year": 2024,
+      "make": "JEEP",
+      "model": "Grand Cherokee L",
+      "condition": "used",
+      "price": 49998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 RAM 1500LIMITED LONGHORN 4x4 Crew Cab 6'4\" Box",
       "vin": "1C6SRFSTXRN142744",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/03ad2d0b8ca0.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 57998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 SPORT",
+      "name": "2024 RAM 1500SPORT 4x4 Crew Cab 6'4\" Box",
       "vin": "1C6SRFTT8RN215687",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/e9723769a54e.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 57998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 CLASSIC TRADESMAN",
+      "name": "2024 RAM 1500 CLASSICTradesman SXT 4x4 Crew Cab 5.7L HEMI 5'7 Box",
       "vin": "1C6RR7KTXRS196129",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/3961002bd4b3.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 46998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 LIMITED LONGHORN",
+      "name": "2024 RAM 3500LIMITED LONGHORN DIESEL 4x4 Crew Cab 8' Box",
       "vin": "3C63RRKL4RG366106",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/68ce8e2003f0.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "price": 89988.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2025 JEEP COMPASS TRAILHAWK",
+      "name": "2025 HYUNDAI KONAPREFERRED AWD",
+      "vin": "KM8HCCAB3SU245491",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/fa0be30f1021.html",
+      "year": 2025,
+      "make": "HYUNDAI",
+      "model": "Kona",
+      "condition": "used",
+      "price": 31998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 HYUNDAI KONAPREFERRED AWD",
+      "vin": "KM8HCCAB6SU303447",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/c975411ff3de.html",
+      "year": 2025,
+      "make": "HYUNDAI",
+      "model": "Kona",
+      "condition": "used",
+      "price": 31998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 JEEP COMPASSTrailhawk 4x4",
       "vin": "3C4NJDDN5ST504713",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/6126243ed924.html",
       "year": 2025,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 41998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2025 MITSUBISHI OUTLANDER ES",
-      "vin": "JA4J4UA83SZ626770",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/f8db7c6f08da.html",
+      "name": "2025 RAM 1500BIG HORN 4x4 Crew Cab 5'7\" Box",
+      "vin": "1C6RRFFG8SN578137",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/aaa317f5c3d1.html",
       "year": 2025,
-      "make": "MITSUBISHI",
-      "model": "Outlander",
-      "condition": "used"
-    },
-    {
-      "name": "2025 VOLKSWAGEN TAOS COMFORTLINE",
-      "vin": "3VVUC7B27SM069463",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/eff9fc129eca.html",
-      "year": 2025,
-      "make": "VOLKSWAGEN",
-      "model": "Taos",
-      "condition": "used"
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 49998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 CHRYSLER GRAND CARAVANSXT FWD",
@@ -402,13 +436,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 2500 POWER WAGON",
+      "name": "2026 RAM 2500POWER WAGON 4X4 CREW CAB 6.4L HEMI 6'4\" BOX",
       "vin": "3C6TR5EJ0TG323876",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/130d6a2bc739.html",
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "price": 79998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 1500BIG HORN 4x4 Crew Cab 5'7\" Box",
