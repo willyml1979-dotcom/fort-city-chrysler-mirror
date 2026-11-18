@@ -1,6 +1,6 @@
 {
   "dealership": "Fort City Chrysler",
-  "generated_at": "2026-11-18T09:51:30",
+  "generated_at": "2026-11-18T16:59:38",
   "vehicle_count": 62,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -305,7 +305,7 @@
     {
       "name": "2026 DODGE CHARGERR/T AWD",
       "vin": "2C3CDAPPXTR275870",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/0d2857311611.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/e22c7cce7099.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Charger",
@@ -316,7 +316,7 @@
     {
       "name": "2026 JEEP CHEROKEELAREDO 4X4",
       "vin": "3C4PJMB27TT286244",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/1d971af7866d.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/76a14da30b8e.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
@@ -338,7 +338,7 @@
     {
       "name": "2026 JEEP COMPASSNORTH 4X4",
       "vin": "3C4NJDBNXTT267351",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/fb80cb208f66.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/2b8196d35e36.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
@@ -382,7 +382,7 @@
     {
       "name": "2026 JEEP GLADIATORSport S 4x4 5' Box",
       "vin": "1C6PJTAG4TL166976",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/145ac18df682.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/30eaa358c5d3.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Gladiator",
@@ -404,7 +404,7 @@
     {
       "name": "2026 JEEP GRAND CHEROKEE LLIMITED 4X4",
       "vin": "1C4RJKAR6T8569342",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/9f092bf9904e.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/fc3ca39e370f.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Grand Cherokee L",
@@ -443,17 +443,6 @@
       "model": "2500",
       "condition": "used",
       "price": 79998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500BIG HORN 4x4 Crew Cab 5'7\" Box",
-      "vin": "3C6SRFFP4T4217100",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/fadcac067b6c.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 74815.0,
       "price_currency": "CAD"
     },
     {
@@ -501,6 +490,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 RAM 1500BIG HORN 4x4 Crew Cab 5'7\" Box",
+      "vin": "3C6SRFFP4T4217100",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/6172f0fb8a7d.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 74815.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 1500EXPRESS 4X4 QUAD CAB 6'4\" BOX",
       "vin": "1C6RRFCG5TN388964",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/f1f809bacc82.html",
@@ -531,6 +531,17 @@
       "model": "1500",
       "condition": "new",
       "price": 61080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500EXPRESS 4x4 Crew Cab 5'7\" Box",
+      "vin": "3C6SRFGP0T4216167",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/d0f5415a6317.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 67380.0,
       "price_currency": "CAD"
     },
     {
@@ -567,20 +578,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500EXPRESS 4x4 Crew Cab 5'7\" Box",
-      "vin": "3C6SRFGP0T4216167",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/3a3f7a83a9cc.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 67380.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 1500SPORT 4x4 Crew Cab 5'7\" Box",
       "vin": "3C6SRFVP5T4166465",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/d3c39f136c6d.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/d702d207c0cb.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -624,7 +624,7 @@
     {
       "name": "2027 JEEP GRAND CHEROKEE LLIMITED RESERVE 4X4",
       "vin": "1C4RJKAR5V8178220",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/bf27040ecd8f.html",
+      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/new/7778dd3dfae0.html",
       "year": 2027,
       "make": "JEEP",
       "model": "Grand Cherokee L",
