@@ -1,7 +1,7 @@
 {
   "dealership": "Fort City Chrysler",
-  "generated_at": "2026-11-17T22:49:48",
-  "vehicle_count": 63,
+  "generated_at": "2026-11-18T00:42:18",
+  "vehicle_count": 62,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,22 +28,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 JEEP COMPASS TRAILHAWK",
+      "name": "2019 JEEP COMPASSTRAILHAWK 4X4",
       "vin": "3C4NJDDB3KT817569",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/bf044c51fca9.html",
       "year": 2019,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 18998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2019 NISSAN ROGUE S",
+      "name": "2019 NISSAN ROGUES FWD",
       "vin": "5N1AT2MT6KC788744",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/36bc6244585a.html",
       "year": 2019,
       "make": "NISSAN",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "price": 13998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 RAM 1500 CLASSICWARLOCK 4x4 Crew Cab 5'7\" Box",
@@ -68,24 +72,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 NISSAN ROGUESV AWD",
-      "vin": "5N1AT3BB3MC728942",
-      "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/464ba3bc366e.html",
-      "year": 2021,
-      "make": "NISSAN",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 CLASSIC EXPRESS",
+      "name": "2021 RAM 1500 CLASSICEXPRESS 4x4 Quad Cab 6'4\" Box",
       "vin": "1C6RR7FGXMS591837",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/114e0e1dd2fb.html",
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "price": 29998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 RAM 3500BIG HORN DIESEL 4x4 Crew Cab 8' Box",
@@ -99,13 +94,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 REBEL",
+      "name": "2022 RAM 1500REBEL DIESEL 4x4 Crew Cab 5'7\" Box",
       "vin": "1C6SRFLM3NN465826",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/eaf4468859ab.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 49998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 GMC SIERRA 1500SLE 4WD Crew Cab 6'6\" BOX",
@@ -119,13 +116,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP COMPASS NORTH",
+      "name": "2023 JEEP COMPASSNORTH 4X4",
       "vin": "3C4NJDBN0PT514351",
       "url": "https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/8c55746e214d.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 JEEP GRAND CHEROKEEOverland 4x4 5.7L HEMI Panoramic Sunroof",

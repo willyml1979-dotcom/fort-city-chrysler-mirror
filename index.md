@@ -1,6 +1,6 @@
 # Fort City Chrysler
 
- dealership in Fort St. John. AI-readable inventory mirror, about 63 vehicles.
+ dealership in Fort St. John. AI-readable inventory mirror, about 62 vehicles.
 
 - Official website: https://fortcitychrysler.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/fort-city-chrysler-mirror/used/
